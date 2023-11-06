@@ -1,0 +1,14 @@
+.c-container {
+  justify-content: space-around;
+  gap: 1rem;
+}
+.c-container > img {
+  width: 9rem;
+}
+
+.Text {
+  font-size: 30px;
+  margin-left: 9.5rem;
+  margin-top: 2rem;
+  font-weight: 600;
+}
